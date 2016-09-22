@@ -65,6 +65,11 @@ As funcionalidades a serem desenvolvidas nesse módulo são:
 
 ### WebRTC
 
+- Tradução de fala e texto: https://github.com/muaz-khan/Translator
+- Gravação: https://github.com/muaz-khan/RecordRTC
+- Compartilhamento de arquivos: https://github.com/muaz-khan/RTCMultiConnection/blob/master/demos/file-sharing.html
+
+
 ## Bots - 10 horas
 
 Nesse módulo não aprenderemos apenas a criar apenas um bot, mas sim criar uma plataforma que execute bots assim como o Telegram, Slack e cia fazem. Porém para isso iremos inicialmente criar 1 bot para o Telegram para entendermos o que e como 1 bot deve se comportar para depois aplicarmos as mesmas funcionalidades na nossa plataforma.
