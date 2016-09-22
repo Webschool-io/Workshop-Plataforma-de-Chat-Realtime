@@ -113,30 +113,24 @@ Nesse módulo não aprenderemos apenas a criar apenas um bot, mas sim criar uma 
 Para criar nossa API de eventos para nossos bots iremos nos basear na do [Slack](https://api.slack.com/events/api) e Telegram.
 
 
-channel_created
-channel_deleted
-channel_joined
-group_close
-group_open
-im_close
-im_created
-im_open
-message.channels
-message.groups
-message.im
-message.mpim
+- channel_created
+- channel_deleted
+- channel_joined
+- group_close
+- group_open
+- im_close
+- im_created
+- im_open
+- message.channels
+- message.groups
+- message.im
+- message.mpim
 
 Funcionalidades para o projeto final:
 
-reaction_added
-reaction_removed
-subteam_created
-team_domain_change
-team_join
-team_rename
-url_verification
-Verifies ownership of an Events API Request URL
- 
-user_change
-A team member's data has changed
-users:read
+- reaction_added
+- reaction_removed
+- subteam_created
+- team_domain_change
+- team_join
+- team_rename
