@@ -9,26 +9,10 @@ Esse workshop será dividido em 4 módulos:
 - Electron - 5 horas
 - WebRTC - 10 horas
 
-## Custo
-
-Eu gostaria muitooooo de fazer todo esse workshop free, porém infelizmente estou criando todo esse conteúdo **único como workshop** para que eu consiga pagar minhas contas, atrasadas e atuais, para que aí sim eu possa liberar TODO esse conteúdo FREE**!
-
-> O custo será de R$100 por cada 5 horas de workshop independente do módulo escolhido!
-
-Creio que R$20 por hora, de um workshop inédito e que ainda irá contribuir com quem não tem como pagar, é bem razoável.
-
-Como o módulo de WebRTC não serei eu que farei, contarei como meta apenas os outros módulos, preciso alcançar um montante de R$8000. Após alcançar essa meta todos os vídeos gravados durante as aulas serão liberados no nosso [canal do Youtube]().
-
-Espero que me entendam por eu estar cobrando por esse workshop, pois infelizmente se eu só der aulas de graça não consigo pagar minhas contas atuais, logo não tenho nem cabeça de criar mais materiais gratuitos.
-
-Essa é uma forma dos alunos que já me ajudam doando para o [Be MEAN]() que possam agora direcionar suas doações para esse workshop que por tabela estará me ajudando e muitooooooo!
-
 ## A Ideia
 
 
-Primeiramente vamos definir as ações possíveis na plataforma.
-
-Usuário poderá:
+Primeiramente vamos definir as ações possíveis na plataforma:
 
 - adicionar amigo via nick/username do github;
 - criar chat privado com qualquer um;
@@ -44,6 +28,21 @@ Usuário poderá:
 - transcrição de áudio para texto;
     + e posterior tradução;
 - utilizar o sistema tanto web como desktop e quem sabe mobile também.
+
+## Custo
+
+Eu gostaria muitooooo de fazer todo esse workshop free, mas infelizmente estou criando todo esse conteúdo **único como workshop** para que eu consiga pagar minhas contas atrasadas e atuais, para que aí sim eu possa liberar TODO esse conteúdo FREE!
+
+> O custo será de R$100 por cada 5 horas de workshop independente do módulo escolhido!
+
+Creio que R$20 por hora, de um workshop inédito e que ainda irá contribuir com quem não tem como pagar, é bem razoável.
+
+Como o módulo de WebRTC não serei eu que farei, contarei como meta apenas os outros módulos, preciso alcançar um montante de R$8000. Após alcançar essa meta todos os vídeos gravados durante as aulas serão liberados no nosso [canal do Youtube]().
+
+Espero que me entendam por eu estar cobrando por esse workshop, pois infelizmente se eu só der aulas de graça não consigo pagar minhas contas atuais, logo não tenho nem cabeça de criar mais materiais gratuitos.
+
+Essa é uma forma dos alunos que já me ajudam doando para o [Be MEAN]() que possam agora direcionar suas doações para esse workshop que por tabela estará me ajudando e muitooooooo!
+
 
 ## Realtime
 
