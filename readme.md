@@ -39,6 +39,7 @@ Usuário poderá:
 - criar video/audioconferência em grupo;
 - gravar as chamadas de video/audio;
 - compartilhar arquivos;
+- compartilhar desktop;
 - criar, executar e gerenciar bots;
 - transcrição de áudio para texto;
     + e posterior tradução;
@@ -75,15 +76,24 @@ Funcionalidades:
 - criar video/audioconferência em grupo;
 - gravar as chamadas de video/audio;
 - compartilhar arquivos;
+- compartilhar desktop;
+- desenho colaborativvo;
+    + propósitos educacionais;
 - transcrição de áudio para texto;
     + e posterior tradução;
+- barra de UserMedia personalizada: https://www.webrtc-experiment.com/navigator.customGetUserMediaBar/
 
 
 Mais links: 
 
+- Desenho em canvas: https://github.com/muaz-khan/Canvas-Designer
+- Compartilhar desktop: https://www.webrtc-experiment.com/RTCMultiConnection/screen-sharing.html
 - Tradução de fala e texto: https://github.com/muaz-khan/Translator
 - Gravação: https://github.com/muaz-khan/RecordRTC
+    + https://github.com/muaz-khan/Ffmpeg.js
+    + https://4dbefa02675a4cdb7fc25d009516b060a84a3b4b.googledrive.com/host/0B6GWd_dUUTT8WjhzNlloZmZtdzA/ffmpeg_asm.js
 - Compartilhamento de arquivos: https://github.com/muaz-khan/RTCMultiConnection/blob/master/demos/file-sharing.html
+    + https://www.webrtc-experiment.com/RTCMultiConnection/audio-conferencing-data-sharing.html
 - Com Socket.io: https://github.com/muaz-khan/RTCMultiConnection/blob/master/v2.2.2/demos/socketio-auto-open-join-room.html
 
 
