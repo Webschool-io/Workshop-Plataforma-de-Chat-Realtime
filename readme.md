@@ -11,6 +11,13 @@ Esse workshop será dividido em 4 módulos:
 
 ## A Ideia
 
+Você não irá aprender a criar apenas um sisteminha de chat básico, irá aprender a construir uma plataforma de chat com diversas funcionalidades que ainda não encontramos nos sistemas mais usados como: WhatsApp, Telegram, etc.
+
+Uma das funcionalidades que acredito ser mais interessante é a possibilidade de fazer video/audio chamadas, além disso poder gravar localmente essa chamada.
+
+Outra funcionalidade que acho maravilhosa é poder receber 1 áudio e em vez de ouvi-lo que o sistema converta em texto, caso eu não deseje ouvir e sim apenas ler. Além disso será integrado um sistema de tradução.
+
+*ps: esse sistema será utilizado no nosso EAD.*
 
 Primeiramente vamos definir as ações possíveis na plataforma:
 
@@ -48,7 +55,7 @@ O horário de início será as 22 horas, mas poderá ser modificado mediante ped
 
 ### Aulas de final de semana
 
-As aulas serão Sábado e Domingo sendo 5 horas, máximas, por dia.
+As aulas serão Sábado e Domingo sendo 5 horas máximas, por dia.
 
 O horário de início será as 14 horas, mas poderá ser modificado mediante pedido da turma.
 
