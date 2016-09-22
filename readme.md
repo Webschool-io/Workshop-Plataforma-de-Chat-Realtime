@@ -38,9 +38,18 @@ Teremos duas formas de turmas:
 - dia de semana
 - final de semana
 
-### Dia de semana
+### Aulas de dia de semana
 
-As aulas serão
+As aulas serão de Segunda a Sexta-feira sendo de 1 a 2 horas por dia, dependendo da turma.
+
+O horário de início será as 22 horas, mas poderá ser modificado mediante pedido da turma.
+
+### Aulas de final de semana
+
+As aulas serão Sábado e Domingo sendo 5 horas, máximas, por dia.
+
+O horário de início será as 14 horas, mas poderá ser modificado mediante pedido da turma.
+
 
 ## Custo
 
