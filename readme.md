@@ -36,8 +36,12 @@ Usuário poderá:
     + todos possuindo uma rota única para poder ser acessado
 - criar canal de notícias onde é apenas para leitura;
 - criar video/audioconferência particular;
-- enviar arquivos via p2p;
+- criar video/audioconferência em grupo;
+- gravar as chamadas de video/audio;
+- compartilhar arquivos;
 - criar, executar e gerenciar bots;
+- transcrição de áudio para texto;
+    + e posterior tradução;
 - utilizar o sistema tanto web como desktop e quem sabe mobile também.
 
 ## Realtime
@@ -65,9 +69,26 @@ As funcionalidades a serem desenvolvidas nesse módulo são:
 
 ### WebRTC
 
+Funcionalidades:
+
+- criar video/audioconferência particular;
+- criar video/audioconferência em grupo;
+- gravar as chamadas de video/audio;
+- compartilhar arquivos;
+- transcrição de áudio para texto;
+    + e posterior tradução;
+
+
+Mais links: 
+
 - Tradução de fala e texto: https://github.com/muaz-khan/Translator
 - Gravação: https://github.com/muaz-khan/RecordRTC
 - Compartilhamento de arquivos: https://github.com/muaz-khan/RTCMultiConnection/blob/master/demos/file-sharing.html
+- Com Socket.io: https://github.com/muaz-khan/RTCMultiConnection/blob/master/v2.2.2/demos/socketio-auto-open-join-room.html
+
+
+- https://www.webrtc-experiment.com/RTCMultiConnection/
+- https://www.webrtc-experiment.com/Conversationjs/
 
 
 ## Bots - 10 horas
