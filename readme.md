@@ -33,6 +33,8 @@ Primeiramente vamos definir as ações possíveis na plataforma:
 
 > **As aulas serão feitas ao vivo!**
 
+Utilizaremos o Hangouts para as aulas, logo cada turma poderá ter **no máximo 9 alunos**, pois ele só aceita até 10 usuários para que seja fechado.
+
 Teremos duas formas de turmas:
 
 - dia de semana
