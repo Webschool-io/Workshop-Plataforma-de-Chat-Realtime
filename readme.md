@@ -29,6 +29,19 @@ Primeiramente vamos definir as ações possíveis na plataforma:
     + e posterior tradução;
 - utilizar o sistema tanto web como desktop e quem sabe mobile também.
 
+## Aulas
+
+> **As aulas serão feitas ao vivo!**
+
+Teremos duas formas de turmas:
+
+- dia de semana
+- final de semana
+
+### Dia de semana
+
+As aulas serão
+
 ## Custo
 
 Eu gostaria muitooooo de fazer todo esse workshop free, mas infelizmente estou criando todo esse conteúdo **único como workshop** para que eu consiga pagar minhas contas atrasadas e atuais, para que aí sim eu possa liberar TODO esse conteúdo FREE!
@@ -80,13 +93,14 @@ Funcionalidades:
     + propósitos educacionais;
 - transcrição de áudio para texto;
     + e posterior tradução;
-- barra de UserMedia personalizada: https://www.webrtc-experiment.com/navigator.customGetUserMediaBar/
+- barra de UserMedia personalizada.
 
 
 Mais links: 
 
 - Desenho em canvas: https://github.com/muaz-khan/Canvas-Designer
 - Compartilhar desktop: https://www.webrtc-experiment.com/RTCMultiConnection/screen-sharing.html
+- barra de UserMedia personalizada: https://www.webrtc-experiment.com/navigator.customGetUserMediaBar/
 - Tradução de fala e texto: https://github.com/muaz-khan/Translator
 - Gravação: https://github.com/muaz-khan/RecordRTC
     + https://github.com/muaz-khan/Ffmpeg.js
