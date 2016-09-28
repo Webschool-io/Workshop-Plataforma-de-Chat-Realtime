@@ -1,0 +1,55 @@
+users: [
+  {
+    nick: String,
+    thumb: String
+  }
+]
+
+messages: [
+  {
+    sender: String, // users_id
+    receiver: [
+      { users: [
+          String, // users_id
+        ]
+      }
+        group: [
+          String, // groups_id
+        ]
+      }
+    ],
+    content: String,
+    files: String, // files_id  
+    sent: Date
+  }
+]
+
+groups: [
+  {
+    name: String,
+    description: String,
+    thumb: String,
+    link: String,
+    visibility: String,
+    admins: [
+      String
+    ],
+    members: [
+      String // users_id
+    ],
+    blocks: [
+      String // users_id
+    ],
+    created_at: Date
+  }
+]
+
+files: [
+  {
+    name: String,
+    path: String,
+    type: String,
+    sender: String, // users_is
+    uploaded_at: Date
+  }
+]

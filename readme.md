@@ -21,7 +21,7 @@ Outra funcionalidade que acho maravilhosa é poder receber 1 áudio e em vez de 
 
 Primeiramente vamos definir as ações possíveis na plataforma:
 
-- adicionar amigo via nick/username do github;
+- adicionar amigo via nick/username;
 - criar chat privado com qualquer um;
 - criar chats públicos e privados;
     + todos possuindo uma rota única para poder ser acessado
