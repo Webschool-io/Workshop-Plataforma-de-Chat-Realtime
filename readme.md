@@ -7,7 +7,7 @@ Esse workshop será dividido em 4 módulos:
 - Socket.io - 5 horas
 - Bots - 10 horas
 - Electron - 5 horas
-- WebRTC - 10 horas
+- WebRTC - 15 horas
 
 ## A Ideia
 
@@ -42,38 +42,9 @@ Primeiramente vamos definir as ações possíveis na plataforma:
 
 Utilizaremos o Hangouts para as aulas, logo cada turma poderá ter **no máximo 9 alunos**, pois ele só aceita até 10 usuários para que seja fechado.
 
-Teremos duas formas de turmas:
-
-- dia de semana
-- final de semana
-
-### Aulas de dia de semana
-
-As aulas serão de Segunda a Sexta-feira sendo de 1 a 2 horas por dia, dependendo da turma.
-
-O horário de início será as 22 horas, mas poderá ser modificado mediante pedido da turma.
-
-### Aulas de final de semana
-
-As aulas serão Sábado e Domingo sendo 5 horas máximas, por dia.
-
-O horário de início será as 14 horas, mas poderá ser modificado mediante pedido da turma.
-
-
 ## Custo
 
-Eu gostaria muitooooo de fazer todo esse workshop free, mas infelizmente estou criando todo esse conteúdo **único como workshop** para que eu consiga pagar minhas contas atrasadas e atuais, para que aí sim eu possa liberar TODO esse conteúdo FREE!
-
-> O custo será de R$100 por cada 5 horas de workshop independente do módulo escolhido!
-
-Creio que R$20 por hora, de um workshop inédito e que ainda irá contribuir com quem não tem como pagar, é bem razoável.
-
-Como o módulo de WebRTC não serei eu que farei, contarei como meta apenas os outros módulos, preciso alcançar um montante de R$8000. Após alcançar essa meta todos os vídeos gravados durante as aulas serão liberados no nosso [canal do Youtube]().
-
-Espero que me entendam por eu estar cobrando por esse workshop, pois infelizmente se eu só der aulas de graça não consigo pagar minhas contas atuais, logo não tenho nem cabeça de criar mais materiais gratuitos.
-
-Essa é uma forma dos alunos que já me ajudam doando para o [Be MEAN]() que possam agora direcionar suas doações para esse workshop que por tabela estará me ajudando e muitooooooo!
-
+Ainda a definir.
 
 ## Realtime
 
@@ -98,7 +69,7 @@ As funcionalidades a serem desenvolvidas nesse módulo são:
 - mostrar ícone de recebimento de mensagem
 - mostrar ícone de leitura de mensagem
 
-### WebRTC
+### WebRTC - 15 horas
 
 Funcionalidades:
 
